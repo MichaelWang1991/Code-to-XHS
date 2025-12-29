@@ -62,7 +62,7 @@
 ## 📸 效果预览 (Screenshots)
 
 ![工具预览图](./assets/screenshot.png)
-![可视化举例图](./assets/genmic_boxplot_sci.png)
+![可视化举例图](./assets/genomic_boxplot_sci.png)
 ![生成的小红书图](./assets/code_p1.png)
 ![生成的小红书图](./assets/code_p2.png)
 
